@@ -1,0 +1,61 @@
+Country,country_lib,continent,visit,n_confirmed,iso,population,area
+Argentina,Argentina,America,1,5371,AR,42669500,2780400
+Australia,Australia,Australia,1,6913,AU,23696900,7692024
+Austria,Austria,Europe,1,15752,AT,8527230,83871
+Bangladesh,Bangladesh,Asia,0,12425,BD,157486000,147570
+Belarus,Belarus,Europe,0,20168,BY,9475100,207600
+Belgium,Belgium,Europe,0,51420,BE,11225469,30528
+Bolivia,Bolivia,America,1,2081,BO,10027254,1098581
+Brazil,Brazil,America,1,135773,BR,203586000,8515767
+Canada,Canada,America,1,66201,CA,35540419,9984670
+Chile,Chile,America,1,24581,CL,17819054,756102
+China,China,Asia,1,83975,CN,1367110000,9640011
+Colombia,Colombia,America,1,9456,CO,47907800,1141748
+Croatia,Croatia,Europe,1,2125,HR,4267558,56594
+Czechia,Czech Republic,Europe,1,8031,CZ,10521600,78865
+Denmark,Denmark,Europe,0,10281,DK,5655750,43094
+Dominican Republic,Dominican Republic,America,0,9095,DO,10378267,48671
+Ecuador,Ecuador,America,0,30298,EC,15888900,276841
+Egypt,Egypt,Africa,1,7981,EG,87668100,1002450
+Estonia,Estonia,Europe,1,1720,EE,1315819,45227
+Finland,Finland,Europe,1,5673,FI,5470437,338424
+France,France,Europe,1,174918,FR,66078000,640679
+Germany,Germany,Europe,1,169430,DE,80783000,357114
+Greece,Greece,Europe,1,2678,GR,10992589,131990
+Hungary,Hungary,Europe,1,3178,HU,9879000,93028
+India,India,Asia,1,56351,IN,1263930000,3287590
+Indonesia,Indonesia,Asia,1,12776,ID,252164800,1904569
+Iran,Iran,Asia,1,103135,IR,77966400,1648195
+Ireland,Ireland,Europe,1,22385,IE,6378000,70273
+Israel,Israel,Asia,0,16381,IL,8268400,20770
+Italy,Italy,Europe,1,215858,IT,60769102,301336
+Japan,Japan,Asia,1,15477,JP,127080000,377930
+"Korea, South",South Korea,Asia,1,10822,KR,50423955,100210
+Kuwait,Kuwait,Asia,1,6567,KW,3268431,17818
+Malaysia,Malaysia,Asia,1,6467,MY,30430500,330803
+Mexico,Mexico,America,1,29616,MX,119713203,1964375
+Netherlands,Netherlands,Europe,1,41973,NL,16881000,41850
+Norway,Norway,Europe,0,8034,NO,5156450,323802
+Pakistan,Pakistan,Asia,1,24644,PK,188410000,881912
+Panama,Panama,America,0,7868,PA,3713312,75417
+Peru,Peru,America,1,58526,PE,30814175,1285216
+Philippines,Philippines,Asia,1,10343,PH,100697400,342353
+Poland,Poland,Europe,1,15047,PL,38496000,312679
+Portugal,Portugal,Europe,1,26715,PT,10477800,92090
+Qatar,Qatar,Asia,1,18890,QA,2269672,11586
+Romania,Romania,Europe,0,14499,RO,19942642,238391
+Russia,Russia,Europe,1,177160,RU,146233000,17124442
+Saudi Arabia,Saudi Arabia,Asia,0,33731,SA,30770375,2149690
+Singapore,Singapore,Asia,1,20939,SG,5469700,710
+South Africa,South Africa,Africa,1,8232,ZA,54002000,1221037
+Spain,Spain,Europe,1,221447,ES,46507760,505992
+Sweden,Sweden,Europe,1,24623,SE,9737521,450295
+Switzerland,Switzerland,Europe,1,30126,CH,8183800,41284
+Thailand,Thailand,Asia,1,3000,TH,64871000,513120
+Turkey,Turkey,Asia,1,133721,TR,76667864,783562
+Ukraine,Ukraine,Europe,0,13691,UA,42973696,603700
+United Arab Emirates,United Arab Emirates,Asia,1,16240,AE,9446000,83600
+United Kingdom,United Kingdom,Europe,1,207977,GB,64105654,242900
+Uruguay,Uruguay,America,1,684,UY,3404189,181034
+US,United States,America,1,1257023,US,319259000,9629091
+Vietnam,Vietnam,Asia,1,288,VN,89708900,331212

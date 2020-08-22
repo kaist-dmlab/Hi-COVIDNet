@@ -3,7 +3,7 @@
 ## About
 Source code and datasets of the paper [Hi-COVIDNet : Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea]
 
-Since the data from Korea Telecom(KT) is not open to the public, if you would like to run the code, please contact KT.
+Since the data from Korea Telecom(KT) is not open to the public, if you would like to run the code, please contact KT. We are contacting KT for data release.
 
 
 ## Installation

@@ -320,7 +320,6 @@ class TransformerModel(nn.Module):
 #             device = src.device
 #             mask = self._generate_square_subsequent_mask(len(src)).to(device)
 #             self.src_mask = mask
-#             self.src_mask = self.src_mask.to(torch.float64)
         """
         src : (N, T, D) = (1,14,6)
         """

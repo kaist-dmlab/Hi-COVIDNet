@@ -65,7 +65,6 @@ class COVID_AUX_Net(nn.Module):
                                  nn.Linear(8, self.output_size)) for c in self.continent_country_cnt
                 })
         if self.output_size > 1 :
-#             self.lstm_total_patients = nn.LSTM(input_size=len(self.continents), hidden_size=hidden_size, num_layers=num_layers, batch_first=True, )
             self.FCN_total_patients = nn.ModuleDict({
                 day: nn.Linear(len(self.continents), 1) for day in np.array(list(range(self.output_size))).astype(str)
                 })

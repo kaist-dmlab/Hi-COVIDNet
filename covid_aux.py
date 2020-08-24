@@ -35,7 +35,6 @@ class COVID_AUX_Net(nn.Module):
         self.countries = np.delete(self.countries, np.argwhere(self.countries == 'Korea, South'))
     
     
-        #continent_country = df_countries.groupby('continent')['Country'].value_counts().index.values
         self.country_continent = df_countries.set_index('Country').to_dict()['continent']
         self.continent_country_cnt = {c: len(df_countries.loc[(df_countries.visit.eq(1)) & (df_countries.continent.eq(c))]) for c in self.continents}
         self.continent_country_cnt['Asia'] -= 1

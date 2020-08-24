@@ -124,7 +124,6 @@ def train_COVID_AUX_Net(model, train_data_model2, train_data_AUX, train_target_c
     
     criterion = torch.nn.MSELoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=lr)
-#     optimizer = torch.optim.SGD(model.parameters(), lr=0.01, momentum=0.9, nesterov=True)
     scheduler = torch.optim.lr_scheduler.MultiStepLR(optimizer, milestones = [20,50,80])
     
     Loss_total = []

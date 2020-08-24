@@ -311,7 +311,6 @@ class TransformerModel(nn.Module):
         self.ninp = ninp
 
     def forward(self, src):
-#             self.src_mask = mask
         """
         src : (N, T, D) = (1,14,6)
         """

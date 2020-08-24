@@ -57,7 +57,7 @@ def main():
     test_target_total = np.expand_dims(test_target_total, axis=0)
     print("testset loaded")
 
-    feature_len = train_data_model2[0]['Argentina'].shape[1]
+    feature_len = train_data_model2[0]['Argentina'].shape[1] # It's possible to use any other countries
     aux_len = train_data_AUX[0]['Argentina'].shape[0]
     
     best_models = {}

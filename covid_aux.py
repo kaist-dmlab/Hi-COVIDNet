@@ -102,7 +102,6 @@ class COVID_AUX_Net(nn.Module):
         
         if self.output_size > 1:
             total_patients_pred = []
-#             print("continent_patients_pred.shape : ",continent_patients_pred.transpose(1,0).contiguous().unsqueeze(0).size()) #(D, T) -> (1, T, D)
 #             output, _ = self.lstm_total_patients(continent_patients_pred.transpose(1,0).contiguous().unsqueeze(0)) #(1, T, D) 
 #             output = output.squeeze() #(T:14,D:6)
 #             print("output.size()", output.size())

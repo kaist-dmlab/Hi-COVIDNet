@@ -316,7 +316,6 @@ class TransformerModel(nn.Module):
 #         return mask
 
     def forward(self, src):
-#             device = src.device
 #             mask = self._generate_square_subsequent_mask(len(src)).to(device)
 #             self.src_mask = mask
         """

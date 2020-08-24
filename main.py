@@ -58,7 +58,7 @@ def main():
     print("testset loaded")
 
     feature_len = train_data_model2[0]['Argentina'].shape[1] # It's possible to use any other countries
-    aux_len = train_data_AUX[0]['Argentina'].shape[0]
+    aux_len = train_data_AUX[0]['Argentina'].shape[0] # It's possible to use any other countries
     
     best_models = {}
     for i in range(20):

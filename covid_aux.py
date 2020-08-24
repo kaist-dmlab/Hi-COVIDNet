@@ -311,7 +311,6 @@ class TransformerModel(nn.Module):
         self.ninp = ninp
 
     def forward(self, src):
-#             mask = self._generate_square_subsequent_mask(len(src)).to(device)
 #             self.src_mask = mask
         """
         src : (N, T, D) = (1,14,6)

@@ -310,8 +310,6 @@ class TransformerModel(nn.Module):
         self.transformer_encoder = TransformerEncoder(encoder_layers, nlayers,).to(torch.float32)
         self.ninp = ninp
 
-#         return mask
-
     def forward(self, src):
 #             mask = self._generate_square_subsequent_mask(len(src)).to(device)
 #             self.src_mask = mask

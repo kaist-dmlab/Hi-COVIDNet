@@ -13,7 +13,7 @@ Requirements
   - Ubuntu 16.04.3 LTS
   - Pytorch >= 1.2.0
   - Numpy >= 1.17.2
-
+ 
 ## Usage
   - Download all codes (*\*.py*) and put them in the same folder
   - Create "model_grid_search" folder in the same folder

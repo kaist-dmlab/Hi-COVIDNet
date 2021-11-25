@@ -7,7 +7,7 @@ Since the data from Korea Telecom(KT) is not open to the public, if you would li
  
     
 ## Installation
-Requirements 
+Requirements  
 
   - Python 3.6 (Recommend Anaconda)
   - Ubuntu 16.04.3 LTS

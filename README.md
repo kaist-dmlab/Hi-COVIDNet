@@ -1,5 +1,5 @@
 # Hi-COVIDNet : Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea 
-
+ 
 ## About 
 Source code and datasets of the paper [Hi-COVIDNet : Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea](https://dl.acm.org/doi/10.1145/3394486.3412864), KDD 2020 (AI for COVID track, Health Day)
   
